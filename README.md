@@ -1,7 +1,11 @@
-(![LINKEDIN BG](https://github.com/Chetanjain281/Chetanjain281/assets/113141484/13285622-13de-436e-947c-4dd19b72a5a2))](https://linktr.ee/rj_chets)
-<h1 align="center">Hi 👋, I'm Chetan Jain</h1>
-🌱 I’m currently learning Web development<br><br>👨‍💻 All of my projects are available at GitHub<br><br>💬 Ask me about Python, JAVA, and Electronics hardware<br><br>📫 How to reach me: chets.rj@gmail.com<br><br>⚡ Fun fact: Did you know that the first computer virus was created in 1983 and was called the 'Elk Cloner'? It was created by a high school student named Rich Skrenta for the Apple II operating system as a prank. Instead of causing harm, it displayed a poem about itself every 50th boot.
+[![MasterHead](![LINKEDIN BG](https://github.com/Chetanjain281/Chetanjain281/assets/113141484/0e6be5b2-75d3-4015-ab26-e85035af4598)
+)](https://linktr.ee/rj_chets)
 
+
+<h1 align="center">Hi 👋, I'm Chetan Jain</h1>
+
+
+🌱 I’m currently learning Web development<br><br>👨‍💻 All of my projects are available at GitHub<br><br>💬 Ask me about Python, JAVA, and Electronics hardware<br><br>📫 How to reach me: chets.rj@gmail.com<br><br>⚡ Fun fact: Did you know that the first computer virus was created in 1983 and was called the 'Elk Cloner'? It was created by a high school student named Rich Skrenta for the Apple II operating system as a prank. Instead of causing harm, it displayed a poem about itself every 50th boot.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rj_chets) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-jain-0011b3229) 
