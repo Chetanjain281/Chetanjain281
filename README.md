@@ -1,5 +1,5 @@
 
-![original-3c16a3a548a4b2ac1340ff32d71c1e95](https://github.com/Chetanjain281/Chetanjain281/assets/113141484/089f6591-a9c5-4efa-91c4-c375e0cd5976)(https://linktr.ee/rj_chets)
+![original-3c16a3a548a4b2ac1340ff32d71c1e95](https://github.com/Chetanjain281/Chetanjain281/assets/113141484/089f6591-a9c5-4efa-91c4-c375e0cd5976)
 
 <h4 align="center">Hey there!</h4>
 <h1 align="center">This is Chetan Jain</h1>
